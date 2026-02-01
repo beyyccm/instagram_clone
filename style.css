@@ -1,0 +1,26 @@
+
+body{
+  background:#fafafa;
+  padding-top:54px;
+}
+.navbar{
+  height:54px;
+}
+.logo{
+  margin-left:192px;
+}
+.search{
+  background:url("assets/search.svg") no-repeat 10px center;
+  padding-left:35px;
+}
+.middlearea{
+  max-height:200px !important;
+}
+.stickysidebar{
+  position:sticky;
+  top:80px;
+}
+.rightpanel{
+  background:#fff;
+  border:none;
+}
